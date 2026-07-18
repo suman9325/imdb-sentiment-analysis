@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+torch
+torchvision
+gensim
+tqdm
